@@ -1,1 +1,1 @@
-python RONNI-RULEX.py
+python main.py
